@@ -2,3 +2,7 @@ Windows 10 has a start button that shows commonly used programs and allows acces
 Windows 10 also provide interactive tiles to your start page.
 These tiles can be customized to add programs to your starting page.
 There is also a task bar to show your currently open programs.
+BeOS was an operating sysytem I temporarily tried to get away from Windows.
+BeOS looks exactly like Windows but can't do as much.
+Haiku is the reiterartion of what used to be called BeOS.
+BeOS-you flash in the pan.
