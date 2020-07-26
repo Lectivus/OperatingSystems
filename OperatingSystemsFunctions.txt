@@ -1,0 +1,4 @@
+Windows 10 has a start button that shows commonly used programs and allows access to settings and power options.
+Windows 10 also provide interactive tiles to your start page.
+These tiles can be customized to add programs to your starting page.
+There is also a task bar to show your currently open programs.
