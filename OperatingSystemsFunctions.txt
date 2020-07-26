@@ -6,3 +6,6 @@ BeOS was an operating sysytem I temporarily tried to get away from Windows.
 BeOS looks exactly like Windows but can't do as much.
 Haiku is the reiterartion of what used to be called BeOS.
 BeOS-you flash in the pan.
+COBOL is an acronym for 'common business-orientated language.'
+This is a 50 year old language that is still used in banking and finance software.
+It's never going away, and I hope learning it makes me eternal.
