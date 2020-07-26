@@ -9,3 +9,6 @@ BeOS-you flash in the pan.
 COBOL is an acronym for 'common business-orientated language.'
 This is a 50 year old language that is still used in banking and finance software.
 It's never going away, and I hope learning it makes me eternal.
+I didn't save the BeOS file?
+Now I have to type stuff just to get the new entry to appear for the assignment.
+Can't we just go back to programming in BASIC?
